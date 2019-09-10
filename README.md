@@ -1,3 +1,4 @@
+
 # GorillaGame
 There are some objects that need to be defined
 Because grilla, banana, and building all has its' own starting position, height, width so I build up an abstract class which cantains position and size information which later on can be inherite
@@ -22,3 +23,5 @@ Need to extend the object class and implement the weather interface, because the
 
 ### Building class
 So far I choose to extend this class from the object class, because I think if the buildings are moving, this can be easier to manipulate. However, if the buildings are steady then things may change? Haven't decided yet
+
+Github_Link: https://github.com/gaojq/GorillaGame
